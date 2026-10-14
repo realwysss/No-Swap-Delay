@@ -1,3 +1,5 @@
+<p align="center"><img src="src/main/resources/assets/modid/icon.png" width="128"></p>
+
 # no swap delay
 
 client side fabric mod for minecraft 1.21.11. when you switch hotbar slots, the item use cooldown gets cut down so you can place or use the new item right away.
